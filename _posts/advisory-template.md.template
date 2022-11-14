@@ -4,7 +4,7 @@ title:  CVE-2021-21832
 date:   2021-08-24 12:12:21 +0800
 ---
 
-Note: Copy this template to the formay `<YYYY>-<MM>-<DD>-<CVE NUMBER>.md`, then edit the relevant sections accordingly.
+Note: Copy this template to the format `<YYYY>-<MM>-<DD>-<CVE NUMBER>.md`, then edit the relevant sections accordingly.
 
 ### Disc Soft Ltd Daemon Tools Pro ISO Parsing memory corruption vulnerability
 
